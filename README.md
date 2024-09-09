@@ -1,8 +1,62 @@
-# React + Vite
+# Make It Real -
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una solución al proyecto REACT en product-preview-card del curso Make It Real.
 
-Currently, two official plugins are available:
+## Tabla de Contenidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Resumen](#resumen)
+- [El desafío](#el-desafío)
+- [Pantallazo](#pantallazo)
+- [Mi proceso](#mi-proceso)
+- [Tecnología utilizada](#tecnología-utilizada)
+- [Lo que aprendí](#lo-que-aprendí)
+- [Desarrollo a futuro](#desarrollo-a-futuro)
+- [Recursos útiles](#recursos-útiles)
+- [Autor](#autor)
+- [Agradecimientos](#agradecimientos)
+
+## Resumen
+
+### El desafío
+
+Los usuarios deben ser capaces de:
+
+Ver una página estilizada con una card usando react.
+Adaptar la página para que sea responsiva en diferentes tamaños de pantalla, especialmente en dispositivos móviles.
+
+### Pantallazo
+
+Se muestra el pantallazo del modo escritorio y mobile.
+
+![mobile](image.png)
+![escritorio](image-1.png)
+
+## Mi proceso
+
+### Tecnología utilizada
+
+- Marcado HTML5 semántico
+- Propiedades personalizadas de CSS
+- Flexbox
+- Flujo de trabajo Mobile-first
+
+### Lo que aprendí
+
+Durante el desarrollo de este proyecto, aprendí a implementar una página de error 404 efectiva y estilizada utilizando flexbox para el diseño responsivo y propiedades personalizadas de CSS para la gestión de colores.
+
+### Desarrollo a futuro
+
+En futuros proyectos, me enfocaré en mejorar mis habilidades en diseño responsivo y en la optimización de imágenes para asegurar tiempos de carga rápidos. También exploraré más sobre la implementación de animaciones CSS para mejorar la experiencia del usuario.
+
+### Recursos útiles
+
+Guía de Markdown - Me ayudó a aprender a escribir en Markdown y crear documentación clara.
+Flexbox Froggy - Un recurso interactivo útil para practicar el diseño con Flexbox.
+
+## Autor
+
+- Github - [@Mikelyto1994](https://github.com/Mikelyto1994)
+
+## Agradecimientos
+
+Agradezco a los instructores del curso Make It Real por proporcionar un marco tan útil para este proyecto. También quiero reconocer a la comunidad de desarrolladores en línea que ofrece valiosos recursos y apoyo.

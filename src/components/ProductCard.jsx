@@ -34,9 +34,12 @@ const ProductImage = styled.img`
   width: 50%;
   object-fit: cover;
   @media (max-width: 375px) {
-    width: 100%; /* Imagen ocupa todo el ancho */
-    height: 262px; /* Limitar la altura */
-    object-fit: cover;
+    position:relative;
+    top:20px;
+    width: auto; /* Imagen ocupa todo el ancho */
+    height: auto; /* Limitar la altura */
+    object-fit: contain; /* Ajustar la imagen sin recortar */
+    content: url('/image-product-mobile.jpg'); /* Cambiar la imagen */
   }
 `;
 
